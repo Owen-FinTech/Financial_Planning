@@ -1,4 +1,4 @@
-# Module_5_Challenge: Financial Planning
+# Financial Planning
 
 This repo contains a Jupyter notebook file and supplementary files required to run it. The notebook file documents the use of APIs as part of the technical solution to create two financial analysis tools.
 
